@@ -34,7 +34,7 @@ void loop()
     //Serial.println("AT");
   Serial.println("AT+CMGF=1");
   delay(1000);
-Serial.println("AT+CMGS=\"+918800833480\"");
+Serial.println("AT+CMGS=\"+91899999999\"");
 delay(1000);
 //while(!Serial.find(">"));
 //{
